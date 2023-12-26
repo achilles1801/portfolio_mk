@@ -1,6 +1,7 @@
 import { RiStarSFill } from "react-icons/ri";
 import CTA from "../components/CTA";
 
+
 export default function Home() {
 
         return (
@@ -9,7 +10,7 @@ export default function Home() {
                 <div className="container mx-auto px-6 ">
                     <div className="flex flex-col lg:flex-row items-center justify-center gap-10 mt-10">
                         <div className="flex flex-col items-center">
-                            <img src="pfp.jpeg" alt="Profile" className="w-64 h-64 object-cover rounded-full shadow-lg"/>
+                            <img src="pfp.jpeg"alt="Profile" className="w-64 h-64 object-cover rounded-full shadow-lg"/>
                             <div className="flex gap-20 text-lg font-medium">
                     <div className="flex items-center"><RiStarSFill color="#80ceff" /><span>Designer</span></div>
                     <div className="flex items-center"><RiStarSFill color="#80ceff" /><span>Engineer</span></div>

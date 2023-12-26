@@ -165,7 +165,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Portfolio Website',
         description: 'Built a portfolio website using React and Tailwind CSS, allowing users to view my projects/skills and contact me.',
-        link: 'https://github.com/achilles1801/3d-portfolio',
+        link: 'https://github.com/achilles1801/portfolio_mk',
     },
     {
         iconUrl: car,
