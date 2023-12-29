@@ -1,7 +1,6 @@
 import { RiStarSFill } from "react-icons/ri";
 import CTA from "../components/CTA";
-import pfp from '../public/pfp.jpeg'
-
+import pfp from '../assets/images/pfp.jpeg';
 
 export default function Home() {
 
