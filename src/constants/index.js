@@ -171,8 +171,8 @@ export const projects = [
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Flight Management System',
-        description: 'Developed a flight management system using mySQL, allowing users to book flights and manage their travel plans.',
-        link: '',
+        description: 'Developed a flight management system using mySQL, and implemented a backend using Node.js and Express.js. I also incorporated graphQL to allow users to query data from the database.',
+        link: 'https://github.com/achilles1801/flight_management',
     },
     {
         iconUrl: snapgram,

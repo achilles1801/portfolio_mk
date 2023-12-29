@@ -16,7 +16,7 @@ const Navbar = () => {
         </NavLink>
         <a href="https://docs.google.com/document/d/1eldR38UqWWzdSREJf7xxVJcGRgYccR0t/edit?usp=sharing&ouid=106902061766095177899&rtpof=true&sd=true"
          target="_blank" rel="noopener noreferrer" className="resume-link">
-          My Resume
+          Resume
         </a>
       </nav>
     </header>
