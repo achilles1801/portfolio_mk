@@ -146,7 +146,7 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'MathBot Project',
         description: 'Used the openai API to create a chatbot that can solve math problems and answer questions about math concepts.',
-        link: 'https://mathbot.majdk.com/',
+        link: 'https://github.com/achilles1801/mathbot_project',
     },
     {
         iconUrl: pricewise,
