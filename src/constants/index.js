@@ -95,11 +95,6 @@ export const skills = [
         imageUrl: matlab,
         name: "matlab",
         type: "Frontend",
-    },
-    {
-        imageUrl: threejs,
-        name: "Three.js",
-        type: "Frontend",
     }
 
 ];
@@ -151,7 +146,7 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'MathBot Project',
         description: 'Used the openai API to create a chatbot that can solve math problems and answer questions about math concepts.',
-        link: 'https://github.com/achilles1801/mathbot_project',
+        link: 'https://mathbot.majdk.com/',
     },
     {
         iconUrl: pricewise,
@@ -170,8 +165,8 @@ export const projects = [
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Flight Management System',
-        description: 'Developed a flight management system using mySQL, and implemented a backend using Node.js and Express.js. I also incorporated graphQL to allow users to query data from the database.',
+        name: 'AeroSys: Advanced Flight Operations Platform',
+        description: 'Developed AeroSys, an advanced flight operations platform using Node.js, Express, MySQL, and GraphQL.',
         link: 'https://github.com/achilles1801/flight_management',
     },
     {
@@ -184,9 +179,9 @@ export const projects = [
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Data Structures & Algorithms Project',
-        description: 'Implemented the most efficient data structures and algorithms to solve a variety of problems, including sorting and searching.',
-        link: 'https://github.com/achilles1801/CS1332',
+        name: 'AWS-Powered Media Hub',
+        description: 'Developed an AWS-powered media hub using Go/Gin, JavaScript, HTML, and CSS.',
+        link: 'https://github.com/achilles1801/videoPlayer',
     },
 ];
 export const coursework = [
