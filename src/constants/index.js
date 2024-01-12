@@ -142,47 +142,47 @@ export const socialLinks = [
 
 export const projects = [
     {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'AWS-Powered Media Hub',
+        description: 'Developed an AWS-powered media hub using Go/Gin, React, and AWS services such as S3 and CloudFront. Allows users to upload and view media files.',
+        link: 'https://github.com/achilles1801/videoPlayer',
+    },
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-blue',
+        name: 'AeroSys: Advanced Flight Operations Platform',
+        description: 'Developed AeroSys, an advanced flight operations platform using Node.js, Express, MySQL, and GraphQL. Implemented a RESTful API to allow users to manage flights and aircraft. Utilized auth0 to implement user authentication and authorization.',
+        link: 'https://github.com/achilles1801/flight_management',
+    },
+    {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'MathBot Project',
+        name: 'Interactive Math Chatbot',
         description: 'Used the openai API to create a chatbot that can solve math problems and answer questions about math concepts.',
         link: 'https://github.com/achilles1801/mathbot_project',
     },
     {
-        iconUrl: pricewise,
-        theme: 'btn-back-red',
-        name: 'Android App Game',
-        description: 'Developed a mobile game for Android devices, giving users multiple levels of difficulty and game modes to choose from.',
-        link: 'https://github.com/achilles1801/android-game',
-    },
-    {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Portfolio Website',
-        description: 'Built a portfolio website using React and Tailwind CSS, allowing users to view my projects/skills and contact me.',
+        name: 'Professional Developer Portfolio ',
+        description: 'Built a professional portfolio website using React and Tailwind CSS, allowing users to view my projects/skills and contact me.',
         link: 'https://github.com/achilles1801/portfolio_mk',
     },
     {
         iconUrl: car,
-        theme: 'btn-back-blue',
-        name: 'AeroSys: Advanced Flight Operations Platform',
-        description: 'Developed AeroSys, an advanced flight operations platform using Node.js, Express, MySQL, and GraphQL.',
-        link: 'https://github.com/achilles1801/flight_management',
+        theme: 'btn-back-red',
+        name: 'Android Mobile Gaming Showcase',
+        description: 'Developed a mobile game for Android devices, giving users multiple levels of difficulty and game modes to choose from.',
+        link: 'https://github.com/achilles1801/android-game',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Rock Paper Scissors Game',
-        description: 'Developed a tictactoe game using Java, allowing users to track their scores and play against challenging AI opponents.',
+        description: 'Developed a rock paper scissors game using Java, allowing users to track their scores and play against challenging AI opponents.',
         link: 'https://github.com/achilles1801/rockpaperscissors',
-    },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'AWS-Powered Media Hub',
-        description: 'Developed an AWS-powered media hub using Go/Gin, JavaScript, HTML, and CSS.',
-        link: 'https://github.com/achilles1801/videoPlayer',
-    },
+    }
 ];
 export const coursework = [
     {
