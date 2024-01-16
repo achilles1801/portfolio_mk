@@ -145,8 +145,8 @@ export const projects = [
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'AWS-Powered Media Hub',
-        description: 'Developed an AWS-powered media hub using Go/Gin, React, and AWS services such as S3 and CloudFront. Allows users to upload and view media files.',
-        link: 'https://github.com/achilles1801/videoPlayer',
+        description: "Constructed a media hub web application leveraging AWS services. The application utilizes AWS Lambda for serverless computing, enabling seamless scaling and reduced operational costs. AWS S3 is employed for secure and scalable object storage of media files, while AWS CloudFront ensures fast delivery of the content globally. The front-end is built with React, providing a dynamic and interactive user interface. Users can effortlessly upload and view media files, benefiting from the robust and efficient infrastructure.",
+        link: 'https://videoplayer.majdk.com/',
     },
     {
         iconUrl: pricewise,
