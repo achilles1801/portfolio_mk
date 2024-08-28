@@ -21,7 +21,7 @@ export default function Home() {
                                 <h1 className="uppercase text-5xl text-justify blue-gradient_text font-semibold drop-shadow">Majd Khawaldeh</h1>
                             <p className="mt-4  text-lg text-[#05143086]">
                                 Computer Science at Georgia Tech<br/>
-                                Seeking 2024 Internships
+                                Seeking New Grad Roles for 2025
                             </p>
                         </div>
                     </div>
