@@ -33,8 +33,12 @@ import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import threejs from './threejs.svg'
+import amazon from './amazon.svg'
+import AI from './AI.svg'
 
 export {
+    amazon,
+    AI,
     books,
     msa,
     css,

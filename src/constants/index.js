@@ -1,6 +1,8 @@
 import { meta, shopify, starbucks, tesla } from "../assets/images";
 import {
     books,
+    AI,
+    amazon,
     msa,
     car,
     threejs,
@@ -101,6 +103,28 @@ export const skills = [
 
 export const experiences = [
     {
+        title: "Software Engineer Intern",
+        company_name: "Amazon",
+        icon: amazon, 
+        iconBg: "#ff9900",
+        date: "May 2024 – Aug 2024",
+        points: [
+            "Developed and implemented a bulk importer tool, reducing manual intervention by 70% and increasing developer capacity by 30%.",
+            "Integrated AWS services including AppSync, Lambda, S3, DynamoDB, SNS, and SQS to create a scalable, event-driven architecture.",
+            "Implemented exponential backoff for UI polling, reducing server load during high-frequency checks."
+        ],
+    },
+    {
+        title: "Software Engineer Fellow",
+        company_name: "HeadStarter AI",
+        icon: AI, // Replace with the correct icon
+        iconBg: "#b0bec5",
+        date: "July 2024 – Present",
+        points: [
+            "Developing 5 AI projects, with the final project targeting 1,000 account creations or $1,000 in revenue."
+        ],
+    },
+    {
         title: "Committee's Director",
         company_name: "MSA (Muslim Student Association)",
         icon: msa,
@@ -108,8 +132,8 @@ export const experiences = [
         date: "August 2022 - Present",
         points: [
             "Collaborated with team members to organize events, achieving a consistent turnout of 200+ attendees.",
-        "Engaged in weekly interfaith dialogues to foster diversity, inclusivity, and respect among students and staff.",
-        "Helped raise $10,000+ for charity through fundraising events and campaigns.",
+            "Engaged in weekly interfaith dialogues to foster diversity, inclusivity, and respect among students and staff.",
+            "Helped raise $10,000+ for charity through fundraising events and campaigns.",
         ],
     },
     {
@@ -119,12 +143,12 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "August 2023 - Present",
         points: [
-            "Taught comprehensive cultural studies to over 15 students with a engaging curriculum.",
+            "Taught comprehensive cultural studies to over 15 students with an engaging curriculum.",
             "Developed and implemented lesson plans to help students achieve academic success.",
-
         ],
     },
 ];
+
 
 export const socialLinks = [
 

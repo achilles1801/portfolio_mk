@@ -43,7 +43,7 @@ const About = () => {
       </div>
 
       <div className='py-16'>
-        <h3 className='subhead-text'>Leadership</h3>
+        <h3 className='subhead-text'>Experience</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
             Taking on leadership roles has always been a passion of mine. Fostering a community of like-minded individuals and working together to achieve a common goal is something I find very rewarding.
