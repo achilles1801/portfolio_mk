@@ -14,7 +14,7 @@ const Navbar = () => {
         <NavLink to="/projects" className={({ isActive }) => isActive ? 'text-blue-500' : 'text-black'}>
           Projects
         </NavLink>
-        <a href="https://drive.google.com/file/d/1w64Me9drOPDvlffWHl-Vwvw5esmyTuhQ/view?usp=sharing"
+        <a href="https://drive.google.com/file/d/1F6yyfHv2VcbZaNNoAIUgokpuv0g82qVn/view?usp=sharing"
          target="_blank" rel="noopener noreferrer" className="resume-link">
           Resume
         </a>
